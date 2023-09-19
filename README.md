@@ -1,0 +1,1 @@
+This is desktop app project. This project is running a Next.js project. You can get the Next.js project from "https://github.com/hrsohel/blood-next". After downloading the Next.js project, run the project using "yarn dev" or "npm run dev". Then run the desktop project using "yarn start" or "npm run start". You will get desktop app view.
